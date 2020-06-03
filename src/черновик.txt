@@ -1,0 +1,7 @@
+title - title
+mainLink - url
+points - points
+author - author
+age - created_at
+comment - num_comments
+key - objectID

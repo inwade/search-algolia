@@ -1,0 +1,16 @@
+.sort-tab-block {
+    background-color: #ffffff;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.sort-tab-block span {
+    font-size: 12px;
+    margin: 0 10px;
+}
+
+.sort-tab-block select {
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+}

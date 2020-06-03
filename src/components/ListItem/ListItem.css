@@ -1,0 +1,56 @@
+.list-item {
+
+}
+
+.article {
+    padding: 20px;
+}
+
+.article span {
+    color: #000000;
+    opacity: 0.7;
+}
+
+.article span a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.article span a:hover {
+    text-decoration: underline;
+}
+
+.article-upper-block {
+    margin-bottom: 10px;
+}
+
+.article-upper-block p {
+    margin: 0;
+    width: auto;
+    display: inline-flex;
+    font-weight: 500;
+}
+
+.article-upper-block span {
+    font-size: 14px;
+    color: #000000;
+    opacity: 0.7;
+}
+
+.article-lower-block span {
+    font-size: 12px;
+}
+
+.span-divider {
+    margin: 0 5px;
+}
+
+.link-text {
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.comment-text {
+    font-weight: normal;
+    font-size: 10px;
+}

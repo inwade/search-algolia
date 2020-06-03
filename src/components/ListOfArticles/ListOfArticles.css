@@ -1,0 +1,10 @@
+.articles-block {
+    background-color: #f6f6ef;
+    width: 100%;
+}
+
+.articles-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
